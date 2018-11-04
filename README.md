@@ -24,3 +24,12 @@ Next, add something like this to your Godot game:
         var male_name = names.get_full_name('male')
         var female_name = names.get_full_name('female')
         var male_first_name = names.get_first_name('male')
+	print("Male name: ", male_name)
+	print("Female name: ", female_name)
+	print("Random male name: ", male_first_name)
+
+The output from this project would look like this:
+
+	Male name: Herman Palmer
+	Female name: Frances Lewis
+	Random male name: James
