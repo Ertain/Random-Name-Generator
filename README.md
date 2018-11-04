@@ -1,8 +1,8 @@
-##Random name Generator
+## Random name Generator
 
 This is a random name generator originally written by [Trey Hunner](https://treyhunner.com/2013/02/random-name-generator/), ported to the Godot Engine.
 
-###How to use it in your Godot game:
+### How to use it in your Godot game:
 
 Place the "names" directory in your main Godot repository, and put the script "random\_names.gd" with your scripts. Next, edit the `FILES` dictionary of "random\_names.gd" to point to your "names" directory. So it looks like this:
 
